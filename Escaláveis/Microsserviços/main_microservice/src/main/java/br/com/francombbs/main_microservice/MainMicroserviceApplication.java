@@ -17,5 +17,3 @@ public class MainMicroserviceApplication {
 	}
 
 }
-
-// Aula do dia 24, 36:30
